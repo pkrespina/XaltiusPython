@@ -1,4 +1,4 @@
-# XaltiusPython
+# PythonLectures
 
 This file contain Python Fundamental and OOPS Concept topics.
 
